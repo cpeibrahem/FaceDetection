@@ -16,15 +16,15 @@ If it gets any error, probably with opencv-python try to install them manually.
 ### Running the Examples
 ## Clone the repository:
 
-`git clone https://github.com/justadudewhohacks/face-api.js.git`
+`git clone https://github.com/cpeibrahem/FaceDetectionTask-SmartMethods.git`
 
 ## Running the Browser Examples
-`cd face-api.js/examples/examples-browser`
+`cd FaceDetectionTask-SmartMethods/examples/examples-browser`
 
 `npm i`
 
 `npm start`
 
-Browse to : http://localhost:3000/.
+Browse to : http://localhost:3000/webcam_face_expression_recognition.
 
 ### link demo : https://www.youtube.com/watch?v=_lr0jfqDbOA&ab_channel=heiojkh
