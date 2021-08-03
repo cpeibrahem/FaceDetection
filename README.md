@@ -25,6 +25,6 @@ If it gets any error, probably with opencv-python try to install them manually.
 
 `npm start`
 
-Browse to : http://localhost:3000/webcam_face_expression_recognition.
+Browse to : http://localhost:3000/webcam_face_landmark_detection.
 
 ### link demo : https://www.youtube.com/watch?v=_lr0jfqDbOA&ab_channel=heiojkh
